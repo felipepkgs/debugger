@@ -1,5 +1,7 @@
 <?php
 
+namespace FelipePkgs\Debugger;
+
 class Debugger
 {
     public function __construct()
